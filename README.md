@@ -1,2 +1,2 @@
 # SE
-this is my 1st commit
+This is my first project
